@@ -1,127 +1,127 @@
-﻿area,qualification,year,number
-Inner,no qualifications,2004,268400
-Inner,no qualifications,2005,300300
-Inner,no qualifications,2006,313000
-Inner,no qualifications,2007,243500
-Inner,no qualifications,2008,240600
-Inner,no qualifications,2009,215800
-Inner,no qualifications,2010,193400
-Inner,no qualifications,2011,205700
-Inner,no qualifications,2012,179800
-Inner,no qualifications,2013,181700
-Inner,no qualifications,2014,171300
-Inner,no qualifications,2015,157400
-Inner,no qualifications,2016,143400
-Inner,no qualifications,2017,148400
-Inner,no qualifications,2018,148000
-Inner,no qualifications,2019,151200
-Inner,no qualifications,2020,109000
-Inner,no qualifications,2021,118000
-Inner,NVQ1 only,2004,146200
-Inner,NVQ1 only,2005,154400
-Inner,NVQ1 only,2006,142700
-Inner,NVQ1 only,2007,146300
-Inner,NVQ1 only,2008,157500
-Inner,NVQ1 only,2009,148700
-Inner,NVQ1 only,2010,150200
-Inner,NVQ1 only,2011,155300
-Inner,NVQ1 only,2012,142100
-Inner,NVQ1 only,2013,147700
-Inner,NVQ1 only,2014,136300
-Inner,NVQ1 only,2015,144100
-Inner,NVQ1 only,2016,137100
-Inner,NVQ1 only,2017,119100
-Inner,NVQ1 only,2018,131600
-Inner,NVQ1 only,2019,111800
-Inner,NVQ1 only,2020,120500
-Inner,NVQ1 only,2021,114700
-Inner,NVQ2 only,2004,171300
-Inner,NVQ2 only,2005,171900
-Inner,NVQ2 only,2006,190100
-Inner,NVQ2 only,2007,192200
-Inner,NVQ2 only,2008,186900
-Inner,NVQ2 only,2009,198800
-Inner,NVQ2 only,2010,194000
-Inner,NVQ2 only,2011,197300
-Inner,NVQ2 only,2012,200000
-Inner,NVQ2 only,2013,192700
-Inner,NVQ2 only,2014,204600
-Inner,NVQ2 only,2015,193600
-Inner,NVQ2 only,2016,199500
-Inner,NVQ2 only,2017,186000
-Inner,NVQ2 only,2018,200900
-Inner,NVQ2 only,2019,189000
-Inner,NVQ2 only,2020,162300
-Inner,NVQ2 only,2021,177600
-Inner,NVQ3 only,2004,184200
-Inner,NVQ3 only,2005,188000
-Inner,NVQ3 only,2006,202000
-Inner,NVQ3 only,2007,233600
-Inner,NVQ3 only,2008,210000
-Inner,NVQ3 only,2009,205100
-Inner,NVQ3 only,2010,221100
-Inner,NVQ3 only,2011,215000
-Inner,NVQ3 only,2012,261200
-Inner,NVQ3 only,2013,257000
-Inner,NVQ3 only,2014,268800
-Inner,NVQ3 only,2015,266000
-Inner,NVQ3 only,2016,282700
-Inner,NVQ3 only,2017,268300
-Inner,NVQ3 only,2018,230000
-Inner,NVQ3 only,2019,252200
-Inner,NVQ3 only,2020,243000
-Inner,NVQ3 only,2021,236700
-Inner,NVQ4+,2004,707000
-Inner,NVQ4+,2005,738800
-Inner,NVQ4+,2006,781000
-Inner,NVQ4+,2007,860500
-Inner,NVQ4+,2008,920900
-Inner,NVQ4+,2009,979500
-Inner,NVQ4+,2010,1035900
-Inner,NVQ4+,2011,1142000
-Inner,NVQ4+,2012,1184700
-Inner,NVQ4+,2013,1206800
-Inner,NVQ4+,2014,1259300
-Inner,NVQ4+,2015,1282500
-Inner,NVQ4+,2016,1319200
-Inner,NVQ4+,2017,1376300
-Inner,NVQ4+,2018,1415800
-Inner,NVQ4+,2019,1445300
-Inner,NVQ4+,2020,1530500
-Inner,NVQ4+,2021,1535100
-Inner,other qualifications,2004,328200
-Inner,other qualifications,2005,287700
-Inner,other qualifications,2006,259700
-Inner,other qualifications,2007,252400
-Inner,other qualifications,2008,263300
-Inner,other qualifications,2009,275100
-Inner,other qualifications,2010,252600
-Inner,other qualifications,2011,163600
-Inner,other qualifications,2012,141400
-Inner,other qualifications,2013,145200
-Inner,other qualifications,2014,129200
-Inner,other qualifications,2015,165200
-Inner,other qualifications,2016,155800
-Inner,other qualifications,2017,155000
-Inner,other qualifications,2018,159700
-Inner,other qualifications,2019,155900
-Inner,other qualifications,2020,154400
-Inner,other qualifications,2021,149400
-Inner,Trade Apprenticeships,2004,41400
-Inner,Trade Apprenticeships,2005,44300
-Inner,Trade Apprenticeships,2006,33300
-Inner,Trade Apprenticeships,2007,23800
-Inner,Trade Apprenticeships,2008,25300
-Inner,Trade Apprenticeships,2009,22900
-Inner,Trade Apprenticeships,2010,21500
-Inner,Trade Apprenticeships,2011,19200
-Inner,Trade Apprenticeships,2012,19500
-Inner,Trade Apprenticeships,2013,23000
-Inner,Trade Apprenticeships,2014,21200
-Inner,Trade Apprenticeships,2015,12900
-Inner,Trade Apprenticeships,2016,15400
-Inner,Trade Apprenticeships,2017,14300
-Inner,Trade Apprenticeships,2018,16100
-Inner,Trade Apprenticeships,2019,14800
-Inner,Trade Apprenticeships,2020,14900
-Inner,Trade Apprenticeships,2021,15100
+﻿,qualification,year,number,area
+,no qualifications,2004,268400,Inner
+,no qualifications,2005,300300,Inner
+,no qualifications,2006,313000,Inner
+,no qualifications,2007,243500,Inner
+,no qualifications,2008,240600,Inner
+,no qualifications,2009,215800,Inner
+,no qualifications,2010,193400,Inner
+,no qualifications,2011,205700,Inner
+,no qualifications,2012,179800,Inner
+,no qualifications,2013,181700,Inner
+,no qualifications,2014,171300,Inner
+,no qualifications,2015,157400,Inner
+,no qualifications,2016,143400,Inner
+,no qualifications,2017,148400,Inner
+,no qualifications,2018,148000,Inner
+,no qualifications,2019,151200,Inner
+,no qualifications,2020,109000,Inner
+,no qualifications,2021,118000,Inner
+,NVQ1 only,2004,146200,Inner
+,NVQ1 only,2005,154400,Inner
+,NVQ1 only,2006,142700,Inner
+,NVQ1 only,2007,146300,Inner
+,NVQ1 only,2008,157500,Inner
+,NVQ1 only,2009,148700,Inner
+,NVQ1 only,2010,150200,Inner
+,NVQ1 only,2011,155300,Inner
+,NVQ1 only,2012,142100,Inner
+,NVQ1 only,2013,147700,Inner
+,NVQ1 only,2014,136300,Inner
+,NVQ1 only,2015,144100,Inner
+,NVQ1 only,2016,137100,Inner
+,NVQ1 only,2017,119100,Inner
+,NVQ1 only,2018,131600,Inner
+,NVQ1 only,2019,111800,Inner
+,NVQ1 only,2020,120500,Inner
+,NVQ1 only,2021,114700,Inner
+,NVQ2 only,2004,171300,Inner
+,NVQ2 only,2005,171900,Inner
+,NVQ2 only,2006,190100,Inner
+,NVQ2 only,2007,192200,Inner
+,NVQ2 only,2008,186900,Inner
+,NVQ2 only,2009,198800,Inner
+,NVQ2 only,2010,194000,Inner
+,NVQ2 only,2011,197300,Inner
+,NVQ2 only,2012,200000,Inner
+,NVQ2 only,2013,192700,Inner
+,NVQ2 only,2014,204600,Inner
+,NVQ2 only,2015,193600,Inner
+,NVQ2 only,2016,199500,Inner
+,NVQ2 only,2017,186000,Inner
+,NVQ2 only,2018,200900,Inner
+,NVQ2 only,2019,189000,Inner
+,NVQ2 only,2020,162300,Inner
+,NVQ2 only,2021,177600,Inner
+,NVQ3 only,2004,184200,Inner
+,NVQ3 only,2005,188000,Inner
+,NVQ3 only,2006,202000,Inner
+,NVQ3 only,2007,233600,Inner
+,NVQ3 only,2008,210000,Inner
+,NVQ3 only,2009,205100,Inner
+,NVQ3 only,2010,221100,Inner
+,NVQ3 only,2011,215000,Inner
+,NVQ3 only,2012,261200,Inner
+,NVQ3 only,2013,257000,Inner
+,NVQ3 only,2014,268800,Inner
+,NVQ3 only,2015,266000,Inner
+,NVQ3 only,2016,282700,Inner
+,NVQ3 only,2017,268300,Inner
+,NVQ3 only,2018,230000,Inner
+,NVQ3 only,2019,252200,Inner
+,NVQ3 only,2020,243000,Inner
+,NVQ3 only,2021,236700,Inner
+,NVQ4+,2004,707000,Inner
+,NVQ4+,2005,738800,Inner
+,NVQ4+,2006,781000,Inner
+,NVQ4+,2007,860500,Inner
+,NVQ4+,2008,920900,Inner
+,NVQ4+,2009,979500,Inner
+,NVQ4+,2010,1035900,Inner
+,NVQ4+,2011,1142000,Inner
+,NVQ4+,2012,1184700,Inner
+,NVQ4+,2013,1206800,Inner
+,NVQ4+,2014,1259300,Inner
+,NVQ4+,2015,1282500,Inner
+,NVQ4+,2016,1319200,Inner
+,NVQ4+,2017,1376300,Inner
+,NVQ4+,2018,1415800,Inner
+,NVQ4+,2019,1445300,Inner
+,NVQ4+,2020,1530500,Inner
+,NVQ4+,2021,1535100,Inner
+,other qualifications,2004,328200,Inner
+,other qualifications,2005,287700,Inner
+,other qualifications,2006,259700,Inner
+,other qualifications,2007,252400,Inner
+,other qualifications,2008,263300,Inner
+,other qualifications,2009,275100,Inner
+,other qualifications,2010,252600,Inner
+,other qualifications,2011,163600,Inner
+,other qualifications,2012,141400,Inner
+,other qualifications,2013,145200,Inner
+,other qualifications,2014,129200,Inner
+,other qualifications,2015,165200,Inner
+,other qualifications,2016,155800,Inner
+,other qualifications,2017,155000,Inner
+,other qualifications,2018,159700,Inner
+,other qualifications,2019,155900,Inner
+,other qualifications,2020,154400,Inner
+,other qualifications,2021,149400,Inner
+,Trade Apprenticeships,2004,41400,Inner
+,Trade Apprenticeships,2005,44300,Inner
+,Trade Apprenticeships,2006,33300,Inner
+,Trade Apprenticeships,2007,23800,Inner
+,Trade Apprenticeships,2008,25300,Inner
+,Trade Apprenticeships,2009,22900,Inner
+,Trade Apprenticeships,2010,21500,Inner
+,Trade Apprenticeships,2011,19200,Inner
+,Trade Apprenticeships,2012,19500,Inner
+,Trade Apprenticeships,2013,23000,Inner
+,Trade Apprenticeships,2014,21200,Inner
+,Trade Apprenticeships,2015,12900,Inner
+,Trade Apprenticeships,2016,15400,Inner
+,Trade Apprenticeships,2017,14300,Inner
+,Trade Apprenticeships,2018,16100,Inner
+,Trade Apprenticeships,2019,14800,Inner
+,Trade Apprenticeships,2020,14900,Inner
+,Trade Apprenticeships,2021,15100,Inner
