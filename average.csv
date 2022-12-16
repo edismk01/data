@@ -1,0 +1,379 @@
+﻿area,qualification,year,average
+London,no qualifications,2004,44411.66667
+London,no qualifications,2005,45540
+London,no qualifications,2006,45343.33333
+London,no qualifications,2007,41516.66667
+London,no qualifications,2008,41990
+London,no qualifications,2009,39348.33333
+London,no qualifications,2010,34076.66667
+London,no qualifications,2011,33041.66667
+London,no qualifications,2012,30423.33333
+London,no qualifications,2013,28776.66667
+London,no qualifications,2014,28395
+London,no qualifications,2015,26696.66667
+London,no qualifications,2016,24145
+London,no qualifications,2017,25256.66667
+London,no qualifications,2018,24893.33333
+London,no qualifications,2019,25380
+London,no qualifications,2020,19548.33333
+London,no qualifications,2021,20583.33333
+London,NVQ1 only,2004,31553.33333
+London,NVQ1 only,2005,31241.66667
+London,NVQ1 only,2006,29521.66667
+London,NVQ1 only,2007,29661.66667
+London,NVQ1 only,2008,31805
+London,NVQ1 only,2009,30666.66667
+London,NVQ1 only,2010,30201.66667
+London,NVQ1 only,2011,32496.66667
+London,NVQ1 only,2012,28846.66667
+London,NVQ1 only,2013,29698.33333
+London,NVQ1 only,2014,27198.33333
+London,NVQ1 only,2015,28063.33333
+London,NVQ1 only,2016,27015
+London,NVQ1 only,2017,24210
+London,NVQ1 only,2018,25026.66667
+London,NVQ1 only,2019,23356.66667
+London,NVQ1 only,2020,22631.66667
+London,NVQ1 only,2021,21398.33333
+London,NVQ2 only,2004,35210
+London,NVQ2 only,2005,34570
+London,NVQ2 only,2006,35846.66667
+London,NVQ2 only,2007,36271.66667
+London,NVQ2 only,2008,36415
+London,NVQ2 only,2009,37806.66667
+London,NVQ2 only,2010,38861.66667
+London,NVQ2 only,2011,40426.66667
+London,NVQ2 only,2012,40746.66667
+London,NVQ2 only,2013,40113.33333
+London,NVQ2 only,2014,40490
+London,NVQ2 only,2015,38413.33333
+London,NVQ2 only,2016,38565
+London,NVQ2 only,2017,38330
+London,NVQ2 only,2018,40061.66667
+London,NVQ2 only,2019,39265
+London,NVQ2 only,2020,35755
+London,NVQ2 only,2021,35420
+London,NVQ3 only,2004,34935
+London,NVQ3 only,2005,35611.66667
+London,NVQ3 only,2006,37003.33333
+London,NVQ3 only,2007,39636.66667
+London,NVQ3 only,2008,38860
+London,NVQ3 only,2009,39451.66667
+London,NVQ3 only,2010,41035
+London,NVQ3 only,2011,41316.66667
+London,NVQ3 only,2012,48626.66667
+London,NVQ3 only,2013,46696.66667
+London,NVQ3 only,2014,48980
+London,NVQ3 only,2015,49846.66667
+London,NVQ3 only,2016,50058.33333
+London,NVQ3 only,2017,49268.33333
+London,NVQ3 only,2018,45666.66667
+London,NVQ3 only,2019,45563.33333
+London,NVQ3 only,2020,44145
+London,NVQ3 only,2021,44490
+London,NVQ4+,2004,101996.6667
+London,NVQ4+,2005,108676.6667
+London,NVQ4+,2006,114978.3333
+London,NVQ4+,2007,124293.3333
+London,NVQ4+,2008,131766.6667
+London,NVQ4+,2009,139190
+London,NVQ4+,2010,148135
+London,NVQ4+,2011,164636.6667
+London,NVQ4+,2012,172130
+London,NVQ4+,2013,178216.6667
+London,NVQ4+,2014,183706.6667
+London,NVQ4+,2015,188070
+London,NVQ4+,2016,197463.3333
+London,NVQ4+,2017,198210
+London,NVQ4+,2018,206163.3333
+London,NVQ4+,2019,211766.6667
+London,NVQ4+,2020,229256.6667
+London,NVQ4+,2021,229455
+London,other qualifications,2004,49735
+London,other qualifications,2005,47775
+London,other qualifications,2006,47901.66667
+London,other qualifications,2007,45898.33333
+London,other qualifications,2008,46841.66667
+London,other qualifications,2009,48355
+London,other qualifications,2010,47065
+London,other qualifications,2011,32478.33333
+London,other qualifications,2012,27553.33333
+London,other qualifications,2013,28040
+London,other qualifications,2014,27481.66667
+London,other qualifications,2015,30421.66667
+London,other qualifications,2016,29338.33333
+London,other qualifications,2017,32261.66667
+London,other qualifications,2018,30953.33333
+London,other qualifications,2019,30351.66667
+London,other qualifications,2020,27076.66667
+London,other qualifications,2021,27255
+London,Trade Apprenticeships,2004,9790
+London,Trade Apprenticeships,2005,9336.666667
+London,Trade Apprenticeships,2006,7505
+London,Trade Apprenticeships,2007,5823.636364
+London,Trade Apprenticeships,2008,6053.333333
+London,Trade Apprenticeships,2009,5168.333333
+London,Trade Apprenticeships,2010,5599.545455
+London,Trade Apprenticeships,2011,4905
+London,Trade Apprenticeships,2012,5228.947368
+London,Trade Apprenticeships,2013,6111.111111
+London,Trade Apprenticeships,2014,5332.272727
+London,Trade Apprenticeships,2015,4762.5
+London,Trade Apprenticeships,2016,4723.611111
+London,Trade Apprenticeships,2017,5780
+London,Trade Apprenticeships,2018,5943.529412
+London,Trade Apprenticeships,2019,4945.535714
+London,Trade Apprenticeships,2020,6463.461538
+London,Trade Apprenticeships,2021,4580
+Inner London,no qualifications,2004,22366.66667
+Inner London,no qualifications,2005,25025
+Inner London,no qualifications,2006,26083.33333
+Inner London,no qualifications,2007,20291.66667
+Inner London,no qualifications,2008,20050
+Inner London,no qualifications,2009,17983.33333
+Inner London,no qualifications,2010,16116.66667
+Inner London,no qualifications,2011,17141.66667
+Inner London,no qualifications,2012,14983.33333
+Inner London,no qualifications,2013,15141.66667
+Inner London,no qualifications,2014,14275
+Inner London,no qualifications,2015,13116.66667
+Inner London,no qualifications,2016,11950
+Inner London,no qualifications,2017,12366.66667
+Inner London,no qualifications,2018,12333.33333
+Inner London,no qualifications,2019,12600
+Inner London,no qualifications,2020,9083.333333
+Inner London,no qualifications,2021,9833.333333
+Inner London,NVQ1 only,2004,12183.33333
+Inner London,NVQ1 only,2005,12866.66667
+Inner London,NVQ1 only,2006,11891.66667
+Inner London,NVQ1 only,2007,12191.66667
+Inner London,NVQ1 only,2008,13125
+Inner London,NVQ1 only,2009,12391.66667
+Inner London,NVQ1 only,2010,12516.66667
+Inner London,NVQ1 only,2011,12941.66667
+Inner London,NVQ1 only,2012,11841.66667
+Inner London,NVQ1 only,2013,12308.33333
+Inner London,NVQ1 only,2014,11358.33333
+Inner London,NVQ1 only,2015,12008.33333
+Inner London,NVQ1 only,2016,11425
+Inner London,NVQ1 only,2017,9925
+Inner London,NVQ1 only,2018,10966.66667
+Inner London,NVQ1 only,2019,9316.666667
+Inner London,NVQ1 only,2020,10041.66667
+Inner London,NVQ1 only,2021,9558.333333
+Inner London,NVQ2 only,2004,14275
+Inner London,NVQ2 only,2005,14325
+Inner London,NVQ2 only,2006,15841.66667
+Inner London,NVQ2 only,2007,16016.66667
+Inner London,NVQ2 only,2008,15575
+Inner London,NVQ2 only,2009,16566.66667
+Inner London,NVQ2 only,2010,16166.66667
+Inner London,NVQ2 only,2011,16441.66667
+Inner London,NVQ2 only,2012,16666.66667
+Inner London,NVQ2 only,2013,16058.33333
+Inner London,NVQ2 only,2014,17050
+Inner London,NVQ2 only,2015,16133.33333
+Inner London,NVQ2 only,2016,16625
+Inner London,NVQ2 only,2017,15500
+Inner London,NVQ2 only,2018,16741.66667
+Inner London,NVQ2 only,2019,15750
+Inner London,NVQ2 only,2020,13525
+Inner London,NVQ2 only,2021,14800
+Inner London,NVQ3 only,2004,15350
+Inner London,NVQ3 only,2005,15666.66667
+Inner London,NVQ3 only,2006,16833.33333
+Inner London,NVQ3 only,2007,19466.66667
+Inner London,NVQ3 only,2008,17500
+Inner London,NVQ3 only,2009,17091.66667
+Inner London,NVQ3 only,2010,18425
+Inner London,NVQ3 only,2011,17916.66667
+Inner London,NVQ3 only,2012,21766.66667
+Inner London,NVQ3 only,2013,21416.66667
+Inner London,NVQ3 only,2014,22400
+Inner London,NVQ3 only,2015,22166.66667
+Inner London,NVQ3 only,2016,23558.33333
+Inner London,NVQ3 only,2017,22358.33333
+Inner London,NVQ3 only,2018,19166.66667
+Inner London,NVQ3 only,2019,21033.33333
+Inner London,NVQ3 only,2020,20250
+Inner London,NVQ3 only,2021,19725
+Inner London,NVQ4+,2004,58916.66667
+Inner London,NVQ4+,2005,61566.66667
+Inner London,NVQ4+,2006,65083.33333
+Inner London,NVQ4+,2007,71708.33333
+Inner London,NVQ4+,2008,76741.66667
+Inner London,NVQ4+,2009,81625
+Inner London,NVQ4+,2010,86325
+Inner London,NVQ4+,2011,95166.66667
+Inner London,NVQ4+,2012,98725
+Inner London,NVQ4+,2013,100566.6667
+Inner London,NVQ4+,2014,104941.6667
+Inner London,NVQ4+,2015,106875
+Inner London,NVQ4+,2016,109933.3333
+Inner London,NVQ4+,2017,114725
+Inner London,NVQ4+,2018,117983.3333
+Inner London,NVQ4+,2019,120441.6667
+Inner London,NVQ4+,2020,127541.6667
+Inner London,NVQ4+,2021,127925
+Inner London,other qualifications,2004,27350
+Inner London,other qualifications,2005,23975
+Inner London,other qualifications,2006,21641.66667
+Inner London,other qualifications,2007,21033.33333
+Inner London,other qualifications,2008,21941.66667
+Inner London,other qualifications,2009,22925
+Inner London,other qualifications,2010,21050
+Inner London,other qualifications,2011,13633.33333
+Inner London,other qualifications,2012,11783.33333
+Inner London,other qualifications,2013,12100
+Inner London,other qualifications,2014,10766.66667
+Inner London,other qualifications,2015,13766.66667
+Inner London,other qualifications,2016,12983.33333
+Inner London,other qualifications,2017,12916.66667
+Inner London,other qualifications,2018,13308.33333
+Inner London,other qualifications,2019,12991.66667
+Inner London,other qualifications,2020,12866.66667
+Inner London,other qualifications,2021,12450
+Inner London,Trade Apprenticeships,2004,3450
+Inner London,Trade Apprenticeships,2005,3691.666667
+Inner London,Trade Apprenticeships,2006,2775
+Inner London,Trade Apprenticeships,2007,2163.636364
+Inner London,Trade Apprenticeships,2008,2108.333333
+Inner London,Trade Apprenticeships,2009,1908.333333
+Inner London,Trade Apprenticeships,2010,1954.545455
+Inner London,Trade Apprenticeships,2011,1920
+Inner London,Trade Apprenticeships,2012,1950
+Inner London,Trade Apprenticeships,2013,2555.555556
+Inner London,Trade Apprenticeships,2014,1927.272727
+Inner London,Trade Apprenticeships,2015,1612.5
+Inner London,Trade Apprenticeships,2016,1711.111111
+Inner London,Trade Apprenticeships,2017,2860
+Inner London,Trade Apprenticeships,2018,3220
+Inner London,Trade Apprenticeships,2019,2114.285714
+Inner London,Trade Apprenticeships,2020,3725
+Inner London,Trade Apprenticeships,2021,1800
+Outer London,no qualifications,2004,22045
+Outer London,no qualifications,2005,20515
+Outer London,no qualifications,2006,19260
+Outer London,no qualifications,2007,21225
+Outer London,no qualifications,2008,21940
+Outer London,no qualifications,2009,21365
+Outer London,no qualifications,2010,17960
+Outer London,no qualifications,2011,15900
+Outer London,no qualifications,2012,15440
+Outer London,no qualifications,2013,13635
+Outer London,no qualifications,2014,14120
+Outer London,no qualifications,2015,13580
+Outer London,no qualifications,2016,12195
+Outer London,no qualifications,2017,12890
+Outer London,no qualifications,2018,12560
+Outer London,no qualifications,2019,12780
+Outer London,no qualifications,2020,10465
+Outer London,no qualifications,2021,10750
+Outer London,NVQ1 only,2004,19370
+Outer London,NVQ1 only,2005,18375
+Outer London,NVQ1 only,2006,17630
+Outer London,NVQ1 only,2007,17470
+Outer London,NVQ1 only,2008,18680
+Outer London,NVQ1 only,2009,18275
+Outer London,NVQ1 only,2010,17685
+Outer London,NVQ1 only,2011,19555
+Outer London,NVQ1 only,2012,17005
+Outer London,NVQ1 only,2013,17390
+Outer London,NVQ1 only,2014,15840
+Outer London,NVQ1 only,2015,16055
+Outer London,NVQ1 only,2016,15590
+Outer London,NVQ1 only,2017,14285
+Outer London,NVQ1 only,2018,14060
+Outer London,NVQ1 only,2019,14040
+Outer London,NVQ1 only,2020,12590
+Outer London,NVQ1 only,2021,11840
+Outer London,NVQ2 only,2004,20935
+Outer London,NVQ2 only,2005,20245
+Outer London,NVQ2 only,2006,20005
+Outer London,NVQ2 only,2007,20255
+Outer London,NVQ2 only,2008,20840
+Outer London,NVQ2 only,2009,21240
+Outer London,NVQ2 only,2010,22695
+Outer London,NVQ2 only,2011,23985
+Outer London,NVQ2 only,2012,24080
+Outer London,NVQ2 only,2013,24055
+Outer London,NVQ2 only,2014,23440
+Outer London,NVQ2 only,2015,22280
+Outer London,NVQ2 only,2016,21940
+Outer London,NVQ2 only,2017,22830
+Outer London,NVQ2 only,2018,23320
+Outer London,NVQ2 only,2019,23515
+Outer London,NVQ2 only,2020,22230
+Outer London,NVQ2 only,2021,20620
+Outer London,NVQ3 only,2004,19585
+Outer London,NVQ3 only,2005,19945
+Outer London,NVQ3 only,2006,20170
+Outer London,NVQ3 only,2007,20170
+Outer London,NVQ3 only,2008,21360
+Outer London,NVQ3 only,2009,22360
+Outer London,NVQ3 only,2010,22610
+Outer London,NVQ3 only,2011,23400
+Outer London,NVQ3 only,2012,26860
+Outer London,NVQ3 only,2013,25280
+Outer London,NVQ3 only,2014,26580
+Outer London,NVQ3 only,2015,27680
+Outer London,NVQ3 only,2016,26500
+Outer London,NVQ3 only,2017,26910
+Outer London,NVQ3 only,2018,26500
+Outer London,NVQ3 only,2019,24530
+Outer London,NVQ3 only,2020,23895
+Outer London,NVQ3 only,2021,24765
+Outer London,NVQ4+,2004,43080
+Outer London,NVQ4+,2005,47110
+Outer London,NVQ4+,2006,49895
+Outer London,NVQ4+,2007,52585
+Outer London,NVQ4+,2008,55025
+Outer London,NVQ4+,2009,57565
+Outer London,NVQ4+,2010,61810
+Outer London,NVQ4+,2011,69470
+Outer London,NVQ4+,2012,73405
+Outer London,NVQ4+,2013,77650
+Outer London,NVQ4+,2014,78765
+Outer London,NVQ4+,2015,81195
+Outer London,NVQ4+,2016,87530
+Outer London,NVQ4+,2017,83485
+Outer London,NVQ4+,2018,88180
+Outer London,NVQ4+,2019,91325
+Outer London,NVQ4+,2020,101715
+Outer London,NVQ4+,2021,101530
+Outer London,other qualifications,2004,22385
+Outer London,other qualifications,2005,23800
+Outer London,other qualifications,2006,26260
+Outer London,other qualifications,2007,24865
+Outer London,other qualifications,2008,24900
+Outer London,other qualifications,2009,25430
+Outer London,other qualifications,2010,26015
+Outer London,other qualifications,2011,18845
+Outer London,other qualifications,2012,15770
+Outer London,other qualifications,2013,15940
+Outer London,other qualifications,2014,16715
+Outer London,other qualifications,2015,16655
+Outer London,other qualifications,2016,16355
+Outer London,other qualifications,2017,19345
+Outer London,other qualifications,2018,17645
+Outer London,other qualifications,2019,17360
+Outer London,other qualifications,2020,14210
+Outer London,other qualifications,2021,14805
+Outer London,Trade Apprenticeships,2004,6340
+Outer London,Trade Apprenticeships,2005,5645
+Outer London,Trade Apprenticeships,2006,4730
+Outer London,Trade Apprenticeships,2007,3660
+Outer London,Trade Apprenticeships,2008,3945
+Outer London,Trade Apprenticeships,2009,3260
+Outer London,Trade Apprenticeships,2010,3645
+Outer London,Trade Apprenticeships,2011,2985
+Outer London,Trade Apprenticeships,2012,3278.947368
+Outer London,Trade Apprenticeships,2013,3555.555556
+Outer London,Trade Apprenticeships,2014,3405
+Outer London,Trade Apprenticeships,2015,3150
+Outer London,Trade Apprenticeships,2016,3012.5
+Outer London,Trade Apprenticeships,2017,2920
+Outer London,Trade Apprenticeships,2018,2723.529412
+Outer London,Trade Apprenticeships,2019,2831.25
+Outer London,Trade Apprenticeships,2020,2738.461538
+Outer London,Trade Apprenticeships,2021,2780
